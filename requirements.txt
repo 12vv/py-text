@@ -1,0 +1,12 @@
+Flask
+gunicorn
+requests
+boto3
+transformers
+torch
+Pillow
+autofaiss
+torchvision
+opencv-python
+git+https://gitee.com/mirrors/segment-anything.git
+numpy==1.22.4

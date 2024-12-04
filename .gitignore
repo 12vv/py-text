@@ -1,0 +1,10 @@
+/.idea
+/.venv
+/vendor/*
+/logs/*
+!/vendor/vendor.json
+output/
+/uploads/*
+/venv
+
+__pycache__/
